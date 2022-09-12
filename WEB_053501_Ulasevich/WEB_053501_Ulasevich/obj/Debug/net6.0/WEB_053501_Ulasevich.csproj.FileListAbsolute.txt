@@ -58,3 +58,7 @@
 /Users/artem/RiderProjects/WEB_053501_Ulasevich/WEB_053501_Ulasevich/obj/Debug/net6.0/WEB_053501_Ulasevich.pdb
 /Users/artem/RiderProjects/WEB_053501_Ulasevich/WEB_053501_Ulasevich/obj/Debug/net6.0/WEB_053501_Ulasevich.genruntimeconfig.cache
 /Users/artem/RiderProjects/WEB_053501_Ulasevich/WEB_053501_Ulasevich/obj/Debug/net6.0/ref/WEB_053501_Ulasevich.dll
+/Users/artem/RiderProjects/WEB_053501_Ulasevich/WEB_053501_Ulasevich/obj/Debug/net6.0/WEB_053501_Ulasevich.RazorAssemblyInfo.cache
+/Users/artem/RiderProjects/WEB_053501_Ulasevich/WEB_053501_Ulasevich/obj/Debug/net6.0/WEB_053501_Ulasevich.RazorAssemblyInfo.cs
+/Users/artem/RiderProjects/WEB_053501_Ulasevich/WEB_053501_Ulasevich/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/artem/RiderProjects/WEB_053501_Ulasevich/WEB_053501_Ulasevich/obj/Debug/net6.0/scopedcss/projectbundle/WEB_053501_Ulasevich.bundle.scp.css
